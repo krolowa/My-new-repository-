@@ -1,0 +1,57 @@
+.today{
+  height: 100vh;
+  display:flex;
+}
+.today .parallax {
+  background-image: url("../assets/background.jpg");
+  width: 100vw;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 80px
+}
+
+.today .parallax .tx {
+  color: white;
+  font-family: 'Great Vibes' , cursive;
+  font-size: 115px;
+  font-weight: 400;
+}
+
+.today .parallax .txt {
+  color: #fff;
+  font-family: 'Great Vibes' , cursive;
+
+  font-size: 86px;
+  line-height: 86px;
+  font-weight: 400;
+
+  text-align: center;
+}
+
+
+.today .parallax .be{
+  font-family: 'Playfair Display', serif;
+  font-size: 44px;
+  line-height: 44px;
+  font-weight: 400;
+  letter-spacing: 2px;
+  text-align: center;
+  color:white;
+  margin-top: 20px;
+}
+.today .parallax a{
+  text-decoration: none;
+  border-bottom: 5px solid white;
+  padding: 15px;
+  color: white;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  margin-top: 50px;
+}

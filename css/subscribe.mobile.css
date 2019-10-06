@@ -1,0 +1,8 @@
+@media (max-width: 520px){
+  .discount{
+    margin-right: -40px;
+  }
+  .sign-in .text-under {
+    display: block;
+    margin-top: 20px;
+}

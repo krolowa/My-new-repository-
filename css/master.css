@@ -1,0 +1,38 @@
+@import "header.css";
+@import "main.css";
+@import "footer.css";
+@import "welcome.css";
+@import "restaurantmenu.css";
+@import "specialities.css";
+@import "today.css";
+@import "menu.css";
+@import "bottom.css";
+@import "reviews.css";
+@import "reservations.css";
+@import "subscribe-part.css";
+@import "restaurantmenu.mobile.css";
+@import "welcome.mobile.css";
+@import "specialities.mobile.css";
+@import "today.mobile.css";
+@import "menu.mobile.css";
+@import "bottom.mobile.css";
+@import "reviews.mobile.css";
+@import "reservations.mobile.css";
+@import "subscribe.mobile.css";
+@import "general.mobile.css";
+@import "footer.mobile.css";
+@import "header.mobile.css";
+
+body {
+  margin: 0px;
+  padding: 0px;
+  display:flex;
+  flex-direction: column;
+  font-family: Montserrat;
+  width:100vw;
+  overflow-x: hidden;
+}
+
+header, main, footer, section {
+  /* border: 1px solid black; */
+}

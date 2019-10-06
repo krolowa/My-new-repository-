@@ -1,0 +1,107 @@
+.menu {
+  padding-left: 5px;
+  display:flex;
+  height: 100vh;
+  flex-direction: row;
+  justify-content: center;
+  align-items: flex-start;
+  background-color: #efefef;
+}
+.menu .offers {
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  border: 1px white solid;
+  background-color: white;
+  width: 313px;
+  height: 532px;
+  margin-top: -40px;
+  padding-top: 60px;
+
+}
+
+.menu .offers p{
+  font-family: "Poppins";
+  font-size: 14px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 4px;
+  text-align: center;
+  color: #666666;
+}
+.menu .offers strong {
+  font-family: "Poppins";
+  font-size: 34px;
+  line-height: 24px;
+  font-weight: 600;
+  letter-spacing: 4px;
+  text-align: center;
+  color: #333333;
+  margin-top: 5px;
+}
+
+.menu .offers a{
+  font-family: "Poppins";
+  font-size: 14px;
+  line-height: 24poverlayx;
+  font-weight: 400;
+  letter-spacing: 4px;
+  text-align: center;
+  color: #666666;
+  margin-top: 100px;
+}
+
+.menu .gallery {
+  display: flex;
+  flex-direction: row ;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+
+  width: 890px;
+  height:800px;
+
+}
+
+.menu .gallery .container {
+  border:1px solid white;
+  position: relative;
+  width: 280px;
+  height: 280px;
+}
+
+.image {
+  display: block;
+  width: 280px;
+  height: 280px;
+}
+
+.overlay {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(60, 50, 50, 0.7);;
+  overflow: hidden;overlay
+  width: 100%;
+  height: 0;
+  transition: .3s ease;
+}
+
+.food-name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color:white;
+  font-size: 18px;
+  font-family: "Poppins";
+  font-weight: 400;
+
+}
+
+.container:hover .overlay {
+  height: 100%;
+}

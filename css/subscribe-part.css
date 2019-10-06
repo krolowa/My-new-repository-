@@ -1,0 +1,105 @@
+.subscribe-part {
+  height: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #16191E;
+}
+.subscribe-part .subscribe{
+  width: 800px;
+  height:300px;
+  display: flex;
+  flex-direction: column;
+
+}
+.promotion{
+
+  width: 800px;
+  height:150px;
+  display: flex;
+  flex-direction: row;
+  align-items:flex-end;
+  justify-content: center;
+}
+.discount{
+  width:100px;
+  height: 100px;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.title-subscribe{
+  width:390px;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding-left: 10px;
+}
+.title-subscribe .sub{
+  color:#999966;
+  font-family: "Great Vibes";
+  font-size: 56px;
+  line-height: 66px;
+  text-align: center;
+  margin-top: -15px;
+}
+.title-subscribe .newsletter {
+  color:white;
+  font-family: "Poppins";
+  font-size: 36px;
+  line-height: 46px;
+  font-weight: 600;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: -5px;
+  margin-left: 50px;
+}
+.sign-in {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 800px;
+  height:130px;
+}
+.sign-in .text-under {
+  font-family: "Playfair Display";
+  font-size: 18px;
+  line-height: 28px;
+  letter-spacing: 2px;
+  text-align: center;
+  color:white;
+  margin-bottom: 30px;
+}
+.searchbar{
+  display: flex;
+  flex-direction: row;
+  justify-content: center
+}
+.searchbar input{
+  display:flex;
+  border:1px solid white;
+  background-color: white;
+  width:170px;
+  height:45px;
+  padding-left:  20px;
+}
+.searchbar ::placeholder{
+  font-family: "Poppins";
+  font-size: 10px;
+  letter-spacing: 3px;
+  color:#c7c7c7;
+}
+.searchbar button{
+  width: 160px;
+  background-color: #cc9933;
+  font-size: 14px;
+  border: 1px solid #cc9933;
+  font-weight: 500;
+}
+.searchbar button:hover{
+  border: 1px solid #cc9933;
+  color: white;
+}

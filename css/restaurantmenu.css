@@ -1,0 +1,14 @@
+.restaurant-menu {
+  height: 100vh;
+margin-bottom: 110px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: white;
+
+}
+.restaurant-menu img{
+
+  width: 31vw;
+
+}

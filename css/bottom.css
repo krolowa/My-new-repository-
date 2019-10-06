@@ -1,0 +1,31 @@
+.bottom{
+  padding-top:40px;
+  padding-right: 450px;
+  display:flex;
+  height: 20vh;
+  flex-direction: row;
+  justify-content: flex-end;
+  align-items: flex-start;
+  background-color: #EFEFEF;
+}
+
+.bottom button{
+  display: flex;
+  justify-content: center;
+  border: none;
+  background-color: #EFEFEF;
+  cursor: pointer;
+  color: black;
+  font-size: 13px;
+  font-family: "Poppins";
+  width: 40px;
+  height: 40px;
+  margin-right:10px;
+}
+
+.bottom button:hover{
+  display: flex;
+  border:1px solid #C4C4C4;
+  border-radius: 3px;
+  color: #c7c7c7;
+}

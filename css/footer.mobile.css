@@ -1,0 +1,17 @@
+@media (max-width: 520px){
+  footer{
+    height: 90vh;
+  }
+  footer .general {
+    flex-direction: column;
+  }
+  .general img {
+    width:300px;
+    height: 300px;
+    border-radius: 50%
+  }
+  .contact {
+    align-items: flex-start;
+    margin-right: 0px;
+  }
+}

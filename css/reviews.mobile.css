@@ -1,0 +1,20 @@
+@media (max-width: 520px){
+  .reviews{
+    height: 80vh;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.reviews .opinions {
+  height: 515px;
+}
+.reviews .opinions .tojeto{
+  margin-top: -50px;
+}
+.comment{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 80px;
+}
+}

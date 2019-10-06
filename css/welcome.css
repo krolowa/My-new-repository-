@@ -1,0 +1,29 @@
+.welcome {
+  height: 120vh;
+  display:flex;
+  flex-direction:row;
+  background-color: #e7e7e7e7;
+}
+.welcome section {
+  width: 50vw;
+  max-width: 50vw;
+}
+
+.welcome .welcome-images {
+  position: relative;
+}
+
+
+
+/* .welcome .welcome-text {
+  padding: 120px;
+} */
+.welcome .welcome-text a {
+  text-decoration: none;
+  border-left: 5px solid black;
+  padding: 15px;
+  color: black;
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+}

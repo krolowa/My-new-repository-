@@ -1,0 +1,14 @@
+@media (max-width: 520px) {
+.restaurant-menu {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  height:200vh;
+ }
+
+.restaurant-menu img {
+  width:95vw;
+  margin-bottom: 10px;
+}
+
+}

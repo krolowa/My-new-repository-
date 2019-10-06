@@ -1,0 +1,23 @@
+@media (max-width: 520px) {
+  .today{
+    height: 90vh;
+    display: flex;
+  }
+  .today .parallax {
+    background-image: url("../assets/background.jpg");
+    width:100vw;
+
+  }
+  .today .parallax .tx{
+    font-size: 60px;
+    text-align: center;
+  }
+  .today .parallax .txt{
+    font-size: 50px;
+    line-height: 65px;
+  }
+  .today .parallax .be{
+    font-size: 30px;
+    line-height: 40px;
+  }
+}

@@ -1,0 +1,772 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>LibyanFood on JumPic.com</title>
+
+
+   <!-- <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
+
+
+    <link rel="stylesheet" type="text/css" href="css/main.css">
+
+    <link rel="stylesheet" type="text/css" href="css/adaptive.css">
+
+    <link rel="stylesheet" type="text/css" href="css/pushy.css">
+
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.css">
+
+    <link rel="stylesheet" type="text/css" href="css/animate.css">-->
+
+
+
+ <!--   <link rel="stylesheet" type="text/css" href="css/prod.css">-->
+
+
+    <style>
+        @charset "UTF-8";img{border:0}body{margin:0}.fa{-moz-osx-font-smoothing:grayscale}html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}a{background:0 0}a:active,a:hover{outline:0}h1{margin:.67em 0}img{vertical-align:middle}button,input{color:inherit;font:inherit;margin:0}button{overflow:visible}button{text-transform:none}button{-webkit-appearance:button;cursor:pointer}button::-moz-focus-inner,input::-moz-focus-inner{border:0;padding:0}@media print{img{page-break-inside:avoid}*{text-shadow:none!important;color:#000!important;background:0 0!important;box-shadow:none!important}a,a:visited{text-decoration:underline}a[href]:after{content:" (" attr(href) ")"}img{max-width:100%!important}}.btn,.btn-info:active,.btn:active,.form-control{background-image:none}body{background-color:#fff}*,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}html{font-size:62.5%;-webkit-tap-highlight-color:transparent}body{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333}button,input{font-family:inherit;font-size:inherit;line-height:inherit}a:focus,a:hover{color:#2a6496;text-decoration:underline}a:focus{outline:dotted thin;outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}h1,h4{font-family:inherit;font-weight:500;line-height:1.1;color:inherit}h1{margin-top:20px;margin-bottom:10px}h4{margin-top:10px;margin-bottom:10px}h1{font-size:36px}h4{font-size:18px}ul{margin-top:0}ul{margin-bottom:10px}@media (min-width:768px){.container{width:750px}}.container-fluid:after,.container:after,.row:after{clear:both}h1,h4{text-transform:capitalize}.container,.container-fluid{margin-right:auto;margin-left:auto}.container,.container-fluid{padding-left:15px;padding-right:15px}@media (min-width:992px){.container{width:970px}}@media (min-width:1200px){.container{width:1170px}}.row{margin-left:-15px;margin-right:-15px}.col-lg-12,.col-md-12,.col-md-3,.col-md-9,.col-sm-12,.col-xs-12{position:relative;min-height:1px;padding-left:15px;padding-right:15px}.col-xs-12{float:left}.col-xs-12{width:100%}@media (min-width:768px){.col-sm-12{float:left}.col-sm-12{width:100%}}@media (min-width:992px){.col-md-12,.col-md-3,.col-md-9{float:left}.col-md-12{width:100%}.col-md-9{width:75%}.col-md-3{width:25%}}@media (min-width:1200px){.col-lg-12{float:left}.col-lg-12{width:100%}}.form-control{font-size:14px;line-height:1.42857143;color:#555;display:block}.form-control{width:100%;height:34px;padding:6px 12px;background-color:#fff;border:1px solid #ccc;border-radius:4px;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075);box-shadow:inset 0 1px 1px rgba(0,0,0,.075);-webkit-transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s;transition:border-color ease-in-out .15s,box-shadow ease-in-out .15s}.form-control:focus{border-color:#66afe9;outline:0;-webkit-box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6);box-shadow:inset 0 1px 1px rgba(0,0,0,.075),0 0 8px rgba(102,175,233,.6)}.form-control::-moz-placeholder{color:#999;opacity:1}.form-control:-ms-input-placeholder{color:#999}.form-control::-webkit-input-placeholder{color:#999}.btn{display:inline-block;margin-bottom:0;font-weight:400;text-align:center;vertical-align:middle;cursor:pointer;border:1px solid transparent;white-space:nowrap;padding:6px 12px;font-size:14px;line-height:1.42857143;border-radius:4px;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.btn:active:focus,.btn:focus{outline:dotted thin;outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}.btn:focus,.btn:hover{color:#333;text-decoration:none}.btn:active{outline:0;-webkit-box-shadow:inset 0 3px 5px rgba(0,0,0,.125);box-shadow:inset 0 3px 5px rgba(0,0,0,.125)}.btn-info{color:#fff;background-color:#5bc0de;border-color:#46b8da}.btn-info:active,.btn-info:focus,.btn-info:hover{color:#fff;background-color:#39b3d7;border-color:#269abc}.btn-block{display:block;width:100%;padding-left:0;padding-right:0}@font-face{font-family:'Glyphicons Halflings';src:url(../fonts/glyphicons-halflings-regular.eot);src:url(../fonts/glyphicons-halflings-regular.eot?#iefix) format('embedded-opentype'),url(../fonts/glyphicons-halflings-regular.woff) format('woff'),url(../fonts/glyphicons-halflings-regular.ttf) format('truetype'),url(../fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular) format('svg')}.input-group-btn:last-child>.btn{margin-left:-1px}.input-group{position:relative;display:table;border-collapse:separate}.input-group .form-control{position:relative;z-index:2;float:left;width:100%;margin-bottom:0}.input-group-lg>.form-control,.input-group-lg>.input-group-btn>.btn{height:46px;padding:10px 16px;font-size:18px;line-height:1.33;border-radius:6px}.input-group .form-control,.input-group-btn{display:table-cell}.input-group-btn{width:1%;white-space:nowrap;vertical-align:middle}.input-group .form-control:first-child{border-bottom-right-radius:0;border-top-right-radius:0}.input-group-btn:last-child>.btn{border-bottom-left-radius:0;border-top-left-radius:0}.input-group-btn{position:relative;font-size:0;white-space:nowrap}.input-group-btn>.btn{position:relative}.input-group-btn>.btn:active,.input-group-btn>.btn:focus,.input-group-btn>.btn:hover{z-index:2}.inner_page .header{box-shadow:none}.container-fluid:after,.container-fluid:before,.container:after,.container:before,.row:after,.row:before{content:" ";display:table}.sidebar{position:relative}@-ms-viewport{width:device-width}body,html{height:100%}body{overflow-x:hidden}a{color:#218DEA;text-decoration:none}a:hover{color:#333;text-decoration:none}.fixed_w{max-width:1140px;margin:0 auto}.sidebar{min-width:300px;background:#dbdbdb;min-height:100%;padding:0}.contant{display:table}.contant .row{display:table-row}.contant .row [class*=col-]{float:none;display:table-cell;vertical-align:top}.page_info{padding:50px 0 25px}.page_info h1{color:#186bb3;font-weight:100;font-size:40px;padding-top:10px}body.inner_page{background:#e6e6e6}.input-group-btn{outline:0;box-shadow:none}.user_go{position:absolute;width:100%;height:100%;background:rgba(33,141,234,.85);border-radius:3px;font-size:20px;padding:10px 26px;color:#fff;bottom:-150%;transition:.3s}.user_go i{display:block;margin:5px auto;width:20px}.header{position:fixed;width:100%;z-index:9;background:#218dea;height:50px;border-bottom:1px solid #1367B0;box-shadow:0 1px 0 rgba(255,255,255,.59)}.header .logo{display:block;float:left;padding:15px 30px 0 0}.contant .basic{background:#fff;min-height:100%;padding:0;position:relative}.flickr_photo h4{margin-left:10px}.flickr_photo{padding:0;max-width:100%}.reviews h4{padding:0 10px 0 20px;font-size:16px;margin:0}.reviews .rev{padding:30px;border-bottom:1px solid #E4E4E4;transition:.3s}.reviews .rev .user{float:left;margin:0 20px 0 0;padding-top:4px}.reviews .rev .user img{width:45px;border-radius:3px}.reviews .rev .texts{padding-left:65px}.reviews .rev .head_rev span{color:#B5B5B5;font-size:13px;padding-left:20px}.reviews .rev .text_rev{padding-top:10px;color:#606060}.reviews .rev:hover{background:#fafafa;transition:.3s}.user_friends{overflow:hidden;padding:0 10px}.user_friends h4{color:#fff;font-size:20px;padding:20px 10px 0}.user_avatars{position:relative;overflow:hidden;display:block}.user_avatars .user_go{transition:.3s}.user_avatars:hover .user_go{bottom:0;overflow:hidden;padding:8px 0 0;width:45px;transition:.3s}.btn-flat{border:2px}.btn-flat:hover{background-color:#8d92e5}.searcher{max-width:400px;float:right;padding:1px}.input-group-btn:last-child>.btn{background-color:#0c5593}.btn-info:active,.btn-info:focus,.btn-info:hover{color:#202020;background-color:#8d92e5!important;border-color:#fff}img{color:#fff}#imagelightbox{cursor:pointer;position:fixed;z-index:10000;-ms-touch-action:none;touch-action:none;-webkit-box-shadow:0 0 3.125em rgba(0,0,0,.75);box-shadow:0 0 3.125em rgba(0,0,0,.75);background-color:#333;border:2px solid #CCC;border-radius:5px}#imagelightbox-overlay{background-color:#000;background-color:rgba(0,44,44,.6);position:fixed;z-index:9998;top:0;right:0;bottom:0;left:0}#imagelightbox-close{width:2.5em;height:2.5em;text-align:left;background-color:#666;border-radius:50%;position:fixed;z-index:10002;top:2.5em;right:2.5em;-webkit-transition:color .3s ease;transition:color .3s ease}#imagelightbox-close:focus,#imagelightbox-close:hover{background-color:#111}#imagelightbox-close:after,#imagelightbox-close:before{width:2px;background-color:#fff;content:'';position:absolute;top:20%;bottom:20%;left:50%;margin-left:-1px}#imagelightbox-close:before{-webkit-transform:rotate(45deg);-ms-transform:rotate(45deg);transform:rotate(45deg)}#imagelightbox-close:after{-webkit-transform:rotate(-45deg);-ms-transform:rotate(-45deg);transform:rotate(-45deg)}#imagelightbox-caption{text-align:center;color:#fff;background-color:#666;position:fixed;z-index:10001;left:0;right:0;bottom:0;padding:.625em}.imagelightbox-arrow{width:3.75em;height:7.5em;background-color:#444;background-color:rgba(0,0,0,.5);vertical-align:middle;display:none;position:fixed;z-index:10001;top:50%;margin-top:-3.75em}.imagelightbox-arrow:focus,.imagelightbox-arrow:hover{background-color:rgba(0,0,0,.75)}.imagelightbox-arrow:active{background-color:#111}.imagelightbox-arrow-left{left:2.5em}.imagelightbox-arrow-right{right:2.5em}.imagelightbox-arrow:before{width:0;height:0;border:1em solid transparent;content:'';display:inline-block;margin-bottom:-.125em}.imagelightbox-arrow-left:before{border-left:none;border-right-color:#fff;margin-left:-.313em}.imagelightbox-arrow-right:before{border-right:none;border-left-color:#fff;margin-right:-.313em}#imagelightbox-caption,#imagelightbox-close,#imagelightbox-overlay,.imagelightbox-arrow{-webkit-animation:fade-in .25s linear;animation:fade-in .25s linear}@-webkit-keyframes fade-in{from{opacity:0}to{opacity:1}}@keyframes fade-in{from{opacity:0}to{opacity:1}}@media only screen and (max-width:41.250em){#container{width:100%}#imagelightbox-close{top:1.25em;right:1.25em}.imagelightbox-arrow{width:2.5em;height:3.75em;margin-top:-2.75em}.imagelightbox-arrow-left{left:1.25em}.imagelightbox-arrow-right{right:1.25em}}@media only screen and (max-width:20em){.imagelightbox-arrow-left{left:0}.imagelightbox-arrow-right{right:0}}.results-column--knowledge-ribbon{height:220px;background-color:#f8f9fa;overflow:hidden;margin-top:-1px}.knowledge-ribbon__images--container{display:inline-block;float:right;height:100%;width:-webkit-calc(100% + 180px);width:-moz-calc(100% + 180px);width:calc(100% + 180px);margin-right:-180px;overflow:hidden;background-color:#000;background-image:url(Loading.gif);background-position:left center;background-repeat:no-repeat}.knowledge-ribbon__images__item{float:left;height:50%;cursor:pointer;max-width:150px}img{max-width:100%;font-size:0!important;text-indent:-9999px}@media (max-width:1200px){.fixed_w{margin:0 40px}}@media (max-width:1030px){.fixed_w{margin:0}}@media (max-width:1024px){.fixed_w{padding:0 50px}}@media (max-width:992px){.mobile_none{display:none}.sidebar{display:none!important}}@media (max-width:700px){.searcher{display:none}.user_friends{display:block}.user_friends{float:left;margin:10px 20px 40px}.user_friends h4{color:#000;font-size:20px;padding:20px 10px 0}}@media (max-width:690px){.header{height:140px}.logo{padding-top:26px!important;margin-left:40px}.page_info{padding:30px 15px}}@media (max-width:500px){.logo,.page_info{text-align:center}.container{padding:0!important}.page_info{margin:0 auto;padding:12px 0 0!important;background-color:#fff}.contant .basic{max-width:100vw!important;display:block!important;overflow:hidden}.page_info h1{font-size:25px;padding-top:20px}.header{height:42px}.logo{margin:0 auto 10px;width:100%;float:none!important;padding:10px 0 0!important}}@media (max-width:350px){.page_info h1{text-align:center;margin-bottom:30px}}@media (max-width:300px){.header{height:60px}}#container{transition:transform .2s cubic-bezier(.16,.68,.43,.99)}.site-overlay{display:none}.fa{display:inline-block}
+        @font-face{font-family:FontAwesome;src:url(../font/fontawesome-webfont.eot?v=4.3.0);src:url(../font/fontawesome-webfont.eot?#iefix&v=4.3.0) format('embedded-opentype'),url(../font/fontawesome-webfont.woff2?v=4.3.0) format('woff2'),url(../font/fontawesome-webfont.woff?v=4.3.0) format('woff'),url(../font/fontawesome-webfont.ttf?v=4.3.0) format('truetype'),url(../font/fontawesome-webfont.svg?v=4.3.0#fontawesomeregular) format('svg');font-weight:400;font-style:normal}.fa{font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;transform:translate(0,0)}.fa-search:before{content:"\f002"}.fa-retweet:before{content:"\f079"}.fa-twitter:before{content:"\f099"}.fa-link:before{content:"\f0c1"}
+
+    </style>
+
+
+
+
+
+    <!-- <script>if (top != self) top.location.replace(location);</script>-->
+    <script src="food_files/osd.js"></script><script src="food_files/show_ads_impl.js" id="google_shimpl"></script><script async="" src="food_files/analytics.js"></script><script type="text/javascript">
+        if (parent.frames.length > 0) {
+            parent.location.href = location.href;
+        }
+    </script>
+    <!-- Slider Revolution -->
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+
+    
+
+<script async="" src="food_files/adsbygoogle.js"></script>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({
+          google_ad_client: "ca-pub-8842108310730338",
+          enable_page_level_ads: true
+     });
+</script>
+
+
+        
+    
+<link rel="preload" href="food_files/integrator.js" as="script"><script type="text/javascript" src="food_files/integrator.js"></script><link rel="preload" href="food_files/integrator_002.js" as="script"><script type="text/javascript" src="food_files/integrator_002.js"></script><link rel="preload" href="food_files/show_ads_impl.js" as="script"><script type="text/javascript" charset="UTF-8" src="food_files/ice.js" async=""></script><iframe src="food_files/manage.html" sandbox="allow-same-origin allow-scripts"></iframe><script type="text/javascript" charset="UTF-8" src="food_files/gsd.asc"></script></head>
+<body class="inner_page innerpage">
+
+
+<div style="height: auto !important;">
+    <!--navigation swipe
+    <div class="menu-btn">&#9776;</div>
+    <nav class="pushy pushy-left">
+        <div class="profile">
+            <div class="avatar"><img src="img/avatar/ava_16.jpg" alt="#"><span>5</span></div>
+            <h3><a href="03.html">Ananew Matvey</a></h3>
+            <a href="#" class="log_btn">Log in</a>
+        </div>
+        <ul class="side_menu">
+            <li><a href="index.html"><i class="fa fa-bookmark-o"></i>Promo page</a></li>
+            <li><a href="01.html" class="animsition-link"><i class="fa fa-map-marker"></i>Map</a></li>
+            <li><a href="hashtag2.php"><i class="fa fa-list"></i>Place list</a></li>
+            <li><a href="04.html"><i class="fa fa-th"></i>Place grid</a></li>
+            <li><a href="02.html"><i class="fa fa-building-o"></i>Place</a></li>
+            <li><a href="03.html"><i class="fa fa-user"></i>User profile</a></li>
+            <li><a href="06.html"><i class="fa fa-book"></i>Blog</a></li>
+            <li><a href="07.html"><i class="fa fa-file-powerpoint-o"></i>Open post</a></li>
+        </ul>
+    </nav>-->
+
+
+    <div class="site-overlay"></div>
+    <div id="container" style="height: auto !important;">
+        <!--header-->
+        <div class="container-fluid header inner_head">
+            <div class="fixed_w">
+                <div class="row">
+                    <div class="col-md-12"><a href="https://www.jumpic.com/" class="logo">
+                            <img src="food_files/logo.png" alt="JumPic.com"></a>
+
+
+                        <form method="get" action="hashtag.php" role="search" class="searcher">
+
+                            <div class="input-group input-group-lg">
+                                <input id="autocomplete" type="text" placeholder="Keyword or #Hashtag" name="q" class="form-control ui-autocomplete-input" autocomplete="off">
+                    <span class="input-group-btn ">
+                      <button class="btn btn-info btn-flat " type="submit"><i class="fa fa-search"></i></button>
+                    </span>
+
+                            </div>
+
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container page_info">
+            <div class="col_md_12">
+                <h1>LibyanFood<a class="btn btn-social-icon" title="retweet" target="_blank" rel="nofollow" href="https://www.twitter.com/share?text=L%27actualit%C3%A9+LibyanFood+sur+%23JumPic+"><i class="fa fa-retweet"></i></a>
+
+                </h1>
+
+
+
+            </div>
+        </div>
+        <div class="container contant" style="height: auto !important;">
+            <div class="row cont" style="height: auto !important;">
+
+                <!--content-->
+                <div class="col-md-9 basic" style="height: auto !important; min-height: 0px !important;">
+
+
+                                            <div class="flickr_photo"><h4>Pictures about LibyanFood </h4>
+                            <div class="results-column--ribbon results-column--knowledge-ribbon">
+                                <div class="knowledge-ribbon__images--container" style="background-image: none;">
+
+                                    <a data-imagelightbox="a" href="https://s-media-cache-ak0.pinimg.com/originals/a8/69/c0/a869c0f5ec220292e50559dbfe68dbf5.jpg" title="a869c0f5ec220292e50559dbfe68dbf5 feedyeti.com"><img data-src="https://s-media-cache-ak0.pinimg.com/originals/a8/69/c0/a869c0f5ec220292e50559dbfe68dbf5.jpg" class="knowledge-ribbon__images__item" alt="a869c0f5ec220292e50559dbfe68dbf5 feedyeti.com" title="a869c0f5ec220292e50559dbfe68dbf5 feedyeti.com" onerror="imgError(this);" src="food_files/a869c0f5ec220292e50559dbfe68dbf5.jpg"></a><a data-imagelightbox="a" href="https://1.bp.blogspot.com/_HPqDf2v19pw/TG5DGyYJoyI/AAAAAAAAAjg/a-LKhg2dPjs/s1600/Bazeen.jpg" title="Bazeen feedyeti.com"><img data-src="http://1.bp.blogspot.com/_HPqDf2v19pw/TG5DGyYJoyI/AAAAAAAAAjg/a-LKhg2dPjs/s1600/Bazeen.jpg" class="knowledge-ribbon__images__item" alt="Bazeen feedyeti.com" title="Bazeen feedyeti.com" onerror="imgError(this);" src="http://1.bp.blogspot.com/_HPqDf2v19pw/TG5DGyYJoyI/AAAAAAAAAjg/a-LKhg2dPjs/s1600/Bazeen.jpg"></a><a data-imagelightbox="a" href="https://4.bp.blogspot.com/_HPqDf2v19pw/TQ5q2IFJEPI/AAAAAAAABac/jV6h0fd9X7Q/s1600/Bazeen.jpg" title="Bazeen feedyeti.com"><img data-src="http://4.bp.blogspot.com/_HPqDf2v19pw/TQ5q2IFJEPI/AAAAAAAABac/jV6h0fd9X7Q/s1600/Bazeen.jpg" class="knowledge-ribbon__images__item" alt="Bazeen feedyeti.com" title="Bazeen feedyeti.com" onerror="imgError(this);" src="http://4.bp.blogspot.com/_HPqDf2v19pw/TQ5q2IFJEPI/AAAAAAAABac/jV6h0fd9X7Q/s1600/Bazeen.jpg"></a><a data-imagelightbox="a" href="https://3.bp.blogspot.com/_HPqDf2v19pw/TRHPyVHSqEI/AAAAAAAABaw/aGR9DWUg6Ic/s1600/Close+2.jpg" title="Close+2 feedyeti.com"><img data-src="http://3.bp.blogspot.com/_HPqDf2v19pw/TRHPyVHSqEI/AAAAAAAABaw/aGR9DWUg6Ic/s1600/Close+2.jpg" class="knowledge-ribbon__images__item" alt="Close+2 feedyeti.com" title="Close+2 feedyeti.com" onerror="imgError(this);" src="http://3.bp.blogspot.com/_HPqDf2v19pw/TRHPyVHSqEI/AAAAAAAABaw/aGR9DWUg6Ic/s1600/Close+2.jpg"></a><a data-imagelightbox="a" href="https://4.bp.blogspot.com/_HPqDf2v19pw/TVMS_ais-0I/AAAAAAAABlU/7N76B78WP1Q/s1600/17.jpg" title="17 feedyeti.com"><img data-src="http://4.bp.blogspot.com/_HPqDf2v19pw/TVMS_ais-0I/AAAAAAAABlU/7N76B78WP1Q/s1600/17.jpg" class="knowledge-ribbon__images__item" alt="17 feedyeti.com" title="17 feedyeti.com" onerror="imgError(this);" src="http://4.bp.blogspot.com/_HPqDf2v19pw/TVMS_ais-0I/AAAAAAAABlU/7N76B78WP1Q/s1600/17.jpg"></a><a data-imagelightbox="a" href="https://i.pinimg.com/736x/60/ff/3e/60ff3ea348bd7bdd77b7b41d53d94ce3--tripoli-libyan-food.jpg" title="60ff3ea348bd7bdd77b7b41d53d94ce3  tripoli libyan food feedyeti.com"><img data-src="https://i.pinimg.com/736x/60/ff/3e/60ff3ea348bd7bdd77b7b41d53d94ce3--tripoli-libyan-food.jpg" class="knowledge-ribbon__images__item" alt="60ff3ea348bd7bdd77b7b41d53d94ce3  tripoli libyan food feedyeti.com" title="60ff3ea348bd7bdd77b7b41d53d94ce3  tripoli libyan food feedyeti.com" onerror="imgError(this);" src="food_files/60ff3ea348bd7bdd77b7b41d53d94ce3--tripoli-libyan-food.jpg"></a><a data-imagelightbox="a" href="https://4.bp.blogspot.com/_HPqDf2v19pw/THEvv-bF0JI/AAAAAAAAAkw/1oNiF2fsExw/s1600/Food.jpg" title="Food feedyeti.com"><img data-src="http://4.bp.blogspot.com/_HPqDf2v19pw/THEvv-bF0JI/AAAAAAAAAkw/1oNiF2fsExw/s1600/Food.jpg" class="knowledge-ribbon__images__item" alt="Food feedyeti.com" title="Food feedyeti.com" onerror="imgError(this);" src="http://4.bp.blogspot.com/_HPqDf2v19pw/THEvv-bF0JI/AAAAAAAAAkw/1oNiF2fsExw/s1600/Food.jpg"></a><a data-imagelightbox="a" href="https://2.bp.blogspot.com/_HPqDf2v19pw/TUwG_blPk9I/AAAAAAAABjc/s3aDhKd-FPg/s1600/mini2.jpg" title="mini2 feedyeti.com"><img data-src="http://2.bp.blogspot.com/_HPqDf2v19pw/TUwG_blPk9I/AAAAAAAABjc/s3aDhKd-FPg/s1600/mini2.jpg" class="knowledge-ribbon__images__item" alt="mini2 feedyeti.com" title="mini2 feedyeti.com" onerror="imgError(this);" src="http://2.bp.blogspot.com/_HPqDf2v19pw/TUwG_blPk9I/AAAAAAAABjc/s3aDhKd-FPg/s1600/mini2.jpg"></a><a data-imagelightbox="a" href="https://s-media-cache-ak0.pinimg.com/originals/82/34/89/8234892b6cabb0572ee22665f3c0f86c.jpg" title="8234892b6cabb0572ee22665f3c0f86c feedyeti.com"><img data-src="https://s-media-cache-ak0.pinimg.com/originals/82/34/89/8234892b6cabb0572ee22665f3c0f86c.jpg" class="knowledge-ribbon__images__item" alt="8234892b6cabb0572ee22665f3c0f86c feedyeti.com" title="8234892b6cabb0572ee22665f3c0f86c feedyeti.com" onerror="imgError(this);" src="food_files/8234892b6cabb0572ee22665f3c0f86c.jpg"></a><a data-imagelightbox="a" href="https://s-media-cache-ak0.pinimg.com/originals/bc/55/0c/bc550c5e978c2d99dead133687514ec3.jpg" title="bc550c5e978c2d99dead133687514ec3 feedyeti.com"><img data-src="https://s-media-cache-ak0.pinimg.com/originals/bc/55/0c/bc550c5e978c2d99dead133687514ec3.jpg" class="knowledge-ribbon__images__item" alt="bc550c5e978c2d99dead133687514ec3 feedyeti.com" title="bc550c5e978c2d99dead133687514ec3 feedyeti.com" onerror="imgError(this);" src="food_files/bc550c5e978c2d99dead133687514ec3.jpg"></a><a data-imagelightbox="a" href="https://www.libyaobserver.ly/sites/default/files/styles/large/public/cucous.jpg" title="cucous feedyeti.com" style="display: none;"><img data-src="https://www.libyaobserver.ly/sites/default/files/styles/large/public/cucous.jpg" class="knowledge-ribbon__images__item" alt="cucous feedyeti.com" title="cucous feedyeti.com" onerror="imgError(this);" src="food_files/cucous.html"></a><a data-imagelightbox="a" href="https://4.bp.blogspot.com/-_EcwvfaHWJI/TVQqQJ3CX8I/AAAAAAAABnQ/eJl_e-ghnOc/s1600/final.jpg" title="final feedyeti.com"><img data-src="http://4.bp.blogspot.com/-_EcwvfaHWJI/TVQqQJ3CX8I/AAAAAAAABnQ/eJl_e-ghnOc/s1600/final.jpg" class="knowledge-ribbon__images__item" alt="final feedyeti.com" title="final feedyeti.com" onerror="imgError(this);" src="http://4.bp.blogspot.com/-_EcwvfaHWJI/TVQqQJ3CX8I/AAAAAAAABnQ/eJl_e-ghnOc/s1600/final.jpg"></a><a data-imagelightbox="a" href="https://www.daringgourmet.com/wp-content/uploads/2015/01/Libyan-Kusksu-final.jpg" title="Libyan Kusksu final feedyeti.com"><img data-src="https://www.daringgourmet.com/wp-content/uploads/2015/01/Libyan-Kusksu-final.jpg" class="knowledge-ribbon__images__item" alt="Libyan Kusksu final feedyeti.com" title="Libyan Kusksu final feedyeti.com" onerror="imgError(this);" src="food_files/Libyan-Kusksu-final.jpg"></a><a data-imagelightbox="a" href="https://2.bp.blogspot.com/-RyPBZFicNJ8/Ue_oewOwNiI/AAAAAAAACs0/9r61L51GU6U/s1600/7.jpg" title="7 feedyeti.com"><img data-src="http://2.bp.blogspot.com/-RyPBZFicNJ8/Ue_oewOwNiI/AAAAAAAACs0/9r61L51GU6U/s1600/7.jpg" class="knowledge-ribbon__images__item" alt="7 feedyeti.com" title="7 feedyeti.com" onerror="imgError(this);" src="http://2.bp.blogspot.com/-RyPBZFicNJ8/Ue_oewOwNiI/AAAAAAAACs0/9r61L51GU6U/s1600/7.jpg"></a><a data-imagelightbox="a" href="https://i.pinimg.com/736x/e1/32/2e/e1322ee9ca4282abd65163600120bb67--libyan-food.jpg" title="e1322ee9ca4282abd65163600120bb67  libyan food feedyeti.com"><img data-src="https://i.pinimg.com/736x/e1/32/2e/e1322ee9ca4282abd65163600120bb67--libyan-food.jpg" class="knowledge-ribbon__images__item" alt="e1322ee9ca4282abd65163600120bb67  libyan food feedyeti.com" title="e1322ee9ca4282abd65163600120bb67  libyan food feedyeti.com" onerror="imgError(this);" src="food_files/e1322ee9ca4282abd65163600120bb67--libyan-food.jpg"></a><a data-imagelightbox="a" href="https://data.whicdn.com/images/226710583/large.jpg" title="large feedyeti.com"><img data-src="https://data.whicdn.com/images/226710583/large.jpg" class="knowledge-ribbon__images__item" alt="large feedyeti.com" title="large feedyeti.com" onerror="imgError(this);" src="food_files/large.jpg"></a><a data-imagelightbox="a" href="https://i.pinimg.com/originals/51/8d/a1/518da119b1cbfda6e010d874fcf91a17.jpg" title="518da119b1cbfda6e010d874fcf91a17 feedyeti.com"><img data-src="https://i.pinimg.com/originals/51/8d/a1/518da119b1cbfda6e010d874fcf91a17.jpg" class="knowledge-ribbon__images__item" alt="518da119b1cbfda6e010d874fcf91a17 feedyeti.com" title="518da119b1cbfda6e010d874fcf91a17 feedyeti.com" onerror="imgError(this);" src="food_files/518da119b1cbfda6e010d874fcf91a17.jpg"></a><a data-imagelightbox="a" href="https://4.bp.blogspot.com/_HPqDf2v19pw/TT3d33v7wpI/AAAAAAAABhA/D_DPIXH_Lo4/s1600/12.jpg" title="12 feedyeti.com"><img data-src="http://4.bp.blogspot.com/_HPqDf2v19pw/TT3d33v7wpI/AAAAAAAABhA/D_DPIXH_Lo4/s1600/12.jpg" class="knowledge-ribbon__images__item" alt="12 feedyeti.com" title="12 feedyeti.com" onerror="imgError(this);" src="http://4.bp.blogspot.com/_HPqDf2v19pw/TT3d33v7wpI/AAAAAAAABhA/D_DPIXH_Lo4/s1600/12.jpg"></a>
+
+
+
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+                 
+
+                  
+                    
+                                              
+                       
+                        <script>function imgError(image) {
+                                image.parentNode.style.display = 'none';
+                                console.log(image.name);
+                            }</script>
+                    <div class="reviews" style="height: auto !important;">
+
+                        <h4>Best tweets:</h4>
+ 
+                    <br>
+                    <div align="center">
+
+
+                        <script async="" src="food_files/adsbygoogle.js"></script>
+                        <!-- Fy optimal -->
+                        <ins class="adsbygoogle" style="display: block; height: 280px;" data-ad-client="ca-pub-8842108310730338" data-ad-slot="9822890687" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:840px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:840px;background-color:transparent;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_1" name="aswift_1" style="left: 0px; position: absolute; top: 0px; border: 0px none; width: 840px; height: 280px; overflow: visible;" width="840" height="280" frameborder="0"></iframe></ins></ins></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+
+
+              </div>
+            
+                    
+                     
+                
+
+                        <div class="rev">
+                            <div class="user"><a href="https://twitter.com/@Kofiscafe" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/SDyipYbv.jpg" alt="Bonjour Kofi's Libyan Café Libyan Food and Tea"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@Kofiscafe" rel="nofollow">Bonjour Kofi's Libyan Café Libyan Food and Tea</a> <span>21/09/2019 06:43</span></div>
+                                <div class="text_rev">
+                                
+                                 If you enjoy my content, please 
+consider supporting me on ko-fi! https:// ko-fi.com/S6S613Y3T  &nbsp;  
+                
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div align="center"><script async="" src="food_files/adsbygoogle.js"></script>
+<!-- Fy optimal -->
+<ins class="adsbygoogle" style="display: block; height: 280px;" data-ad-client="ca-pub-8842108310730338" data-ad-slot="9822890687" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_2_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:840px;background-color:transparent;"><ins id="aswift_2_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:840px;background-color:transparent;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_2" name="aswift_2" style="left: 0px; position: absolute; top: 0px; border: 0px none; width: 840px; height: 280px; overflow: visible;" width="840" height="280" frameborder="0"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div> <div class="rev" style="padding: 0;"></div>  <div class="rev">
+                            <div class="user"><a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.reuters.com%2farticle%2fus-libya-business-women-idUSKBN1K100D&amp;c=9852710977513164092&amp;mkt=en-us" rel="nofollow" target="_blank" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/bing.png" alt="Libyan food delivery service looks to serve up gender equality"></a></div>
+                            <div class="texts">
+                                <div class="head_rev">   <a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.reuters.com%2farticle%2fus-libya-business-women-idUSKBN1K100D&amp;c=9852710977513164092&amp;mkt=en-us" rel="nofollow" target="_blank">Libyan food delivery service looks to serve up gender equality </a> <span>Tue, 10 Jul 2018 17:05:00 GMT </span></div>
+                                <div class="text_rev">
+                                
+                               LONDON (Thomson Reuters Foundation) - 
+Fatima Nasser’s new business had barely got off the ground when she was 
+accused of being a foreign spy for giving women employment opportunities
+ in Libya, her war ... <br>
+                               
+             
+                                </div>
+                             
+                            </div>
+                        </div>
+                        <!--review end-->
+                        <div class="rev">
+                            <div class="user"><a href="https://twitter.com/@KhawlaMarghani" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/g6eyQi-_.jpg" alt="khawla marghani"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@KhawlaMarghani" rel="nofollow">khawla marghani</a> <span>13/09/2019 12:34</span></div>
+                                <div class="text_rev">
+                                
+                                 My best flavor at all <a href="https://www.jumpic.com/hashtag.php?q=Libyanfood">#Libyanfood</a> <br>http://pic.twitter.com/yyUj0Zh9d7
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/EEWEWDhWsAADBBn.jpg"><img src="food_files/EEWEWDhWsAADBBn.jpg" alt="My best flavor at all #Libyanfood &lt;br&gt;http://pic.twitter.com/yyUj0Zh9d7" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div align="center"><script async="" src="food_files/adsbygoogle.js"></script>
+<!-- Fy optimal -->
+<ins class="adsbygoogle" style="display: block; height: 0px;" data-ad-client="ca-pub-8842108310730338" data-ad-slot="9822890687" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_3_expand" style="display: inline-table; border: medium none; height: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 840px; background-color: transparent;"><ins id="aswift_3_anchor" style="display: block; border: medium none; height: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 840px; background-color: transparent; overflow: hidden; opacity: 0;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_3" name="aswift_3" style="left: 0px; position: absolute; top: 0px; border: 0px none; width: 840px; height: 280px; overflow: visible;" width="840" height="280" frameborder="0"></iframe></ins></ins></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div> <div class="rev" style="padding: 0;"></div>  <div class="rev">
+                            <div class="user"><a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.maltatoday.com.mt%2fnews%2fcourt_and_police%2f56694%2flibyan_food_importation_company_director_admits_to_using_fake_documents&amp;c=4334174305488737707&amp;mkt=en-us" rel="nofollow" target="_blank" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/bing.png" alt="Libyan food importation company director admits to using fake documents"></a></div>
+                            <div class="texts">
+                                <div class="head_rev">   <a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.maltatoday.com.mt%2fnews%2fcourt_and_police%2f56694%2flibyan_food_importation_company_director_admits_to_using_fake_documents&amp;c=4334174305488737707&amp;mkt=en-us" rel="nofollow" target="_blank">Libyan food importation company director admits to using fake documents </a> <span>Tue, 01 Sep 2015 05:24:00 GMT </span></div>
+                                <div class="text_rev">
+                                
+                               A 45-year-old Libyan man from Tripoli, 
+who is a director of a company audited by Joe Sammut, has pleaded guilty
+ to using false documents to import foodstuffs. Magistrate Antonio Vella
+ heard Police ... <br>
+                               
+             
+                                </div>
+                             
+                            </div>
+                        </div>
+                        <!--review end-->
+                        <div class="rev">
+                            <div class="user"><a href="https://twitter.com/@acraftyarab" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/rYkCJbpU.jpg" alt="A Crafty Arab *querying her #IlhanOmar #PB KidLit*"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@acraftyarab" rel="nofollow">A Crafty Arab *querying her #IlhanOmar #PB KidLit*</a> <span>04/09/2019 12:28</span></div>
+                                <div class="text_rev">
+                                
+                                 I'm writing a post on Top Ten Facts 
+about Libya and decided to make it all about FOOD.  What should I add?  
+  <a href="https://www.jumpic.com/hashtag.php?q=Libyans">#Libyans</a> out there, what do you want people to know about the best cuisine in the world? I'll wait if you need to ask your <a href="https://www.jumpic.com/hashtag.php?q=ArabMom">#ArabMom</a> first.  <a href="https://www.jumpic.com/hashtag.php?q=Libya">#Libya</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <br>http://pic.twitter.com/TLQliHpiMM
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/EDnsoHLUYAAsqRL.jpg"><img src="food_files/EDnsoHLUYAAsqRL.jpg" alt="I'm writing a post on Top Ten Facts about Libya and decided to make it all about FOOD.  What should I add?    #Libyans out there, what do you want people to know about the best cuisine in the world? I'll wait if you need to ask your #ArabMom first.  #Libya #LibyanFood &lt;br&gt;http://pic.twitter.com/TLQliHpiMM" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div> <div class="rev">
+                            <div class="user"><a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.geek.com%2fculture%2fthis-food-delivery-app-aims-to-empower-female-entrepreneurs-in-libya-1761680%2f&amp;c=13067548686369007153&amp;mkt=en-us" rel="nofollow" target="_blank" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/bing.png" alt="This Food Delivery App Aims to Empower Female Entrepreneurs in Libya"></a></div>
+                            <div class="texts">
+                                <div class="head_rev">   <a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.geek.com%2fculture%2fthis-food-delivery-app-aims-to-empower-female-entrepreneurs-in-libya-1761680%2f&amp;c=13067548686369007153&amp;mkt=en-us" rel="nofollow" target="_blank">This Food Delivery App Aims to Empower Female Entrepreneurs in Libya </a> <span>Mon, 19 Nov 2018 12:44:00 GMT </span></div>
+                                <div class="text_rev">
+                                
+                               The Libyan food delivery app, which was 
+created by Fattoum Nasser and Azeeza Adam, isn’t your typical business 
+model, according to Well+Good. Instead of selling food from restaurants,
+ Yummy enables ... <br>
+                               
+             
+                                </div>
+                             
+                            </div>
+                        </div>
+                        <!--review end-->
+                        <div class="rev">
+                            <div class="user"><a href="https://twitter.com/@oldmommatajuri" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/1Njnu_kb.jpeg" alt="Oldmomma"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@oldmommatajuri" rel="nofollow">Oldmomma</a> <span>12/05/2019 09:15</span></div>
+                                <div class="text_rev">
+                                
+                                 Ok Libyan tweeps whats the name for 
+this? Bread filled with ground chicken. Potato and cheese. Bazzar pepper
+ salt red pepper garlic? Daughter wants to learn..didn't see it on 
+libyanfood blog. Its pan fried. Reminded me of quesadilla.. <br>http://pic.twitter.com/lCaeEpc5tm
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/D6WxZgaXsAEKZIE.jpg"><img src="food_files/D6WxZgaXsAEKZIE.jpg" alt="Ok Libyan tweeps whats the name for this? Bread filled with ground chicken. Potato and cheese. Bazzar pepper salt red pepper garlic? Daughter wants to learn..didn't see it on libyanfood blog. Its pan fried. Reminded me of quesadilla.. &lt;br&gt;http://pic.twitter.com/lCaeEpc5tm" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div align="center"><input type="hidden" name="IL_IN_ARTICLE"></div> <div class="rev">
+                            <div class="user"><a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.voanews.com%2fworld-news%2fmiddle-east-dont-use%2flibyan-food-delivery-service-looks-serve-gender-equality&amp;c=850610218603614867&amp;mkt=en-us" rel="nofollow" target="_blank" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/bing.png" alt="Libyan Food Delivery Service Looks to Serve Up Gender Equality"></a></div>
+                            <div class="texts">
+                                <div class="head_rev">   <a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.voanews.com%2fworld-news%2fmiddle-east-dont-use%2flibyan-food-delivery-service-looks-serve-gender-equality&amp;c=850610218603614867&amp;mkt=en-us" rel="nofollow" target="_blank">Libyan Food Delivery Service Looks to Serve Up Gender Equality </a> <span>Tue, 10 Jul 2018 20:15:00 GMT </span></div>
+                                <div class="text_rev">
+                                
+                               LONDON - Fatima Nasser's new business had
+ barely got off the ground when she was accused of being a foreign spy 
+for giving women employment opportunities in Libya, her war-torn home 
+country. The ... <br>
+                               
+             
+                                </div>
+                             
+                            </div>
+                        </div>
+                        <!--review end-->
+                        <div class="rev">
+                            <div class="user"><a href="https://twitter.com/@shaistaAziz" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/6e09e2e9cfd34ddab722b349694a08ea.png" alt="Shaista Aziz"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@shaistaAziz" rel="nofollow">Shaista Aziz</a> <span>23/04/2019 12:46</span></div>
+                                <div class="text_rev">
+                                
+                                 Shakshouka, ful, tabahij and mafroum (minced meat) @ZoroonaC <a href="https://www.jumpic.com/hashtag.php?q=MossSide">#MossSide</a> <a href="https://www.jumpic.com/hashtag.php?q=Manchester">#Manchester</a> <a href="https://www.jumpic.com/hashtag.php?q=Libyanfood">#Libyanfood</a>  ..... next up...canvassing with @Amna4A<br>http://pic.twitter.com/HWtkuyYOgx
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/D41rkEVWkAM28zj.jpg"><img src="food_files/D41rkEVWkAM28zj.jpg" alt="Shakshouka, ful, tabahij and mafroum (minced meat) @ZoroonaC #MossSide #Manchester #Libyanfood  ..... next up...canvassing with @Amna4A&lt;br&gt;http://pic.twitter.com/HWtkuyYOgx" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div> <div class="rev">
+                            <div class="user"><a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.middleeastmonitor.com%2f20180711-libyan-food-delivery-service-looks-to-serve-up-gender-equality%2f&amp;c=9421921172391890824&amp;mkt=en-us" rel="nofollow" target="_blank" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/bing.png" alt="Libyan food delivery service looks to serve up gender equality"></a></div>
+                            <div class="texts">
+                                <div class="head_rev">   <a href="https://www.bing.com/news/apiclick.aspx?ref=FexRss&amp;aid=&amp;tid=C9B92D41635443A5904BE26BA09D68A4&amp;url=https%3a%2f%2fwww.middleeastmonitor.com%2f20180711-libyan-food-delivery-service-looks-to-serve-up-gender-equality%2f&amp;c=9421921172391890824&amp;mkt=en-us" rel="nofollow" target="_blank">Libyan food delivery service looks to serve up gender equality </a> <span>Tue, 10 Jul 2018 18:19:00 GMT </span></div>
+                                <div class="text_rev">
+                                
+                               Fatima Nasser’s new business had barely 
+got off the ground when she was accused of being a foreign spy for 
+giving women employment opportunities in Libya, her war-torn home 
+country, the Thomson ... <br>
+                               
+             
+                                </div>
+                             
+                            </div>
+                        </div>
+                        <!--review end-->
+                        <div class="rev">
+                            <div class="user"><a href="https://twitter.com/@acraftyarab" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/rYkCJbpU.jpg" alt="A Crafty Arab *querying her #IlhanOmar #PB KidLit*"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@acraftyarab" rel="nofollow">A Crafty Arab *querying her #IlhanOmar #PB KidLit*</a> <span>05/04/2019 10:19</span></div>
+                                <div class="text_rev">
+                                
+                                 Better yet, make an Arab friend.  They always invite you over &amp; naturally make too much. <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <br>http://pic.twitter.com/JR3jdJwgXE
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/D3YdS4HUEAEde6z.jpg"><img src="food_files/D3YdS4HUEAEde6z.jpg" alt="Better yet, make an Arab friend.  They always invite you over &amp; naturally make too much. #LibyanFood &lt;br&gt;http://pic.twitter.com/JR3jdJwgXE" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@desertrose5505" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/lTyrZpQE.jpg" alt="Dr L. A."></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@desertrose5505" rel="nofollow">Dr L. A.</a> <span>12/01/2019 11:52</span></div>
+                                <div class="text_rev">
+                                
+                                 Nothing beats a wintry day like <a href="https://www.jumpic.com/hashtag.php?q=RishtetBurma">#RishtetBurma</a>  a <a href="https://www.jumpic.com/hashtag.php?q=Libyan">#Libyan</a> casserole/minestrone ( consists of dried meat legumes and homemade noodles <a href="https://www.jumpic.com/hashtag.php?q=OnlyInLibya">#OnlyInLibya</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <a href="https://www.jumpic.com/hashtag.php?q=Winter2019">#Winter2019</a><br>http://pic.twitter.com/1BNbzN87P9
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/DwtWqJEXgAAXqua.jpg"><img src="food_files/DwtWqJEXgAAXqua.jpg" alt="Nothing beats a wintry day like #RishtetBurma  a #Libyan casserole/minestrone ( consists of dried meat legumes and homemade noodles #OnlyInLibya #LibyanFood #Winter2019&lt;br&gt;http://pic.twitter.com/1BNbzN87P9" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@j_p_eggert" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/jkLrFshA.jpg" alt="Dr Jennifer P Eggert"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@j_p_eggert" rel="nofollow">Dr Jennifer P Eggert</a> <span>19/10/2018 05:48</span></div>
+                                <div class="text_rev">
+                                
+                                 That friend who you just quickly go to 
+see to ask her something and who doesn't let you leave until she's 
+packed a big plate full of home-made Libyan food for you  <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <a href="https://www.jumpic.com/hashtag.php?q=ArabHospitality">#ArabHospitality</a><br>http://pic.twitter.com/05YtCSeH0p
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/Dp45BWfWwAAuapm.jpg"><img src="food_files/Dp45BWfWwAAuapm.jpg" alt="That friend who you just quickly go to see to ask her something and who doesn't let you leave until she's packed a big plate full of home-made Libyan food for you  #LibyanFood #ArabHospitality&lt;br&gt;http://pic.twitter.com/05YtCSeH0p" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@j_p_eggert" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/jkLrFshA.jpg" alt="Dr Jennifer P Eggert"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@j_p_eggert" rel="nofollow">Dr Jennifer P Eggert</a> <span>23/06/2018 04:36</span></div>
+                                <div class="text_rev">
+                                
+                                 So the theme of Jennifer's 
+friends/colleagues sharing their delicious home-made cakes is continuing
+ ... yesterday my Libyan friend gave me a plate of the most delicious 
+kak halqom / كعك حلقوم she had made for Eid  <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <a href="https://www.jumpic.com/hashtag.php?q=ArabicFood">#ArabicFood</a> <a href="https://www.jumpic.com/hashtag.php?q=EidulFitr">#EidulFitr</a><br>http://pic.twitter.com/kSoNZugVJV
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/DgY80aIX0AQ4201.jpg"><img src="food_files/DgY80aIX0AQ4201.jpg" alt="So the theme of Jennifer's friends/colleagues sharing their delicious home-made cakes is continuing ... yesterday my Libyan friend gave me a plate of the most delicious kak halqom / كعك حلقوم she had made for Eid  #LibyanFood #ArabicFood #EidulFitr&lt;br&gt;http://pic.twitter.com/kSoNZugVJV" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@Ezdihar_A" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/EUtBpFLT.jpg" alt="Ezdihar"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@Ezdihar_A" rel="nofollow">Ezdihar</a> <span>05/11/2017 10:13</span></div>
+                                <div class="text_rev">
+                                
+                                 Morning <a href="https://www.jumpic.com/hashtag.php?q=IfYouKnowYouKnow">#IfYouKnowYouKnow</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> #عصيدة<br>http://pic.twitter.com/SA7KOxHCwh
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/DN3HofmX0AE7-BT.jpg"><img src="food_files/DN3HofmX0AE7-BT.jpg" alt="Morning #IfYouKnowYouKnow #LibyanFood #عصيدة&lt;br&gt;http://pic.twitter.com/SA7KOxHCwh" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@desertrose5505" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/lTyrZpQE.jpg" alt="Dr L. A."></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@desertrose5505" rel="nofollow">Dr L. A.</a> <span>12/08/2016 01:04</span></div>
+                                <div class="text_rev">
+                                
+                                 <a href="https://www.jumpic.com/hashtag.php?q=Trabilsian">#Trabilsian</a> <a href="https://www.jumpic.com/hashtag.php?q=VeggieCouscusy">#VeggieCouscusy</a> ! For step by step recipe view my blog .#LibyanFood <a href="https://www.jumpic.com/hashtag.php?q=Libya">#Libya</a><br>http://pic.twitter.com/xOzLCokDOC
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/CpqTXrKWAAApZxQ.jpg"><img src="food_files/CpqTXrKWAAApZxQ.jpg" alt="#Trabilsian #VeggieCouscusy ! For step by step recipe view my blog .#LibyanFood #Libya&lt;br&gt;http://pic.twitter.com/xOzLCokDOC" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@DMULibyanS" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/ibQyYo_k.jpg" alt="DMU Libyan Society"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@DMULibyanS" rel="nofollow">DMU Libyan Society</a> <span>20/04/2016 09:50</span></div>
+                                <div class="text_rev">
+                                
+                                 Images of " Taste The Libyan Food" event ! <a href="https://www.jumpic.com/hashtag.php?q=dmu">#dmu</a>#libyanfood @dmuleicester @DMUglobal<br>http://pic.twitter.com/PUw5Afys6W
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/CghGlTVXEAAeWUQ.jpg"><img src="food_files/CghGlTVXEAAeWUQ.jpg" alt="Images of &quot; Taste The Libyan Food&quot; event ! #dmu#libyanfood @dmuleicester @DMUglobal&lt;br&gt;http://pic.twitter.com/PUw5Afys6W" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@LibyanBentBladi" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/dMvU2SSd.jpg" alt="Asma"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@LibyanBentBladi" rel="nofollow">Asma</a> <span>18/10/2015 09:24</span></div>
+                                <div class="text_rev">
+                                
+                                 When all else fails, make embakebka <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <br>http://pic.twitter.com/cevBuIHCP3
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/CRoSYbUUEAAeYlI.jpg"><img src="food_files/CRoSYbUUEAAeYlI.jpg" alt="When all else fails, make embakebka #LibyanFood &lt;br&gt;http://pic.twitter.com/cevBuIHCP3" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@Libyan4life" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/jqY15HMj.jpg" alt="Assia"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@Libyan4life" rel="nofollow">Assia</a> <span>24/03/2015 05:37</span></div>
+                                <div class="text_rev">
+                                
+                                 Today a friend from <a href="https://www.jumpic.com/hashtag.php?q=Zintan">#Zintan</a> invited me for dinner &amp;made Ftaat, it was absolutely phenomenal Mashallah!!! <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <br>http://pic.twitter.com/pr0C19GZQa
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/CA4T6agWoAA28Lf.jpg"><img src="food_files/CA4T6agWoAA28Lf.jpg" alt="Today a friend from #Zintan invited me for dinner &amp;made Ftaat, it was absolutely phenomenal Mashallah!!! #LibyanFood &lt;br&gt;http://pic.twitter.com/pr0C19GZQa" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@Libyan4life" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/jqY15HMj.jpg" alt="Assia"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@Libyan4life" rel="nofollow">Assia</a> <span>14/03/2015 01:56</span></div>
+                                <div class="text_rev">
+                                
+                                 Correct answer: Fteera!! <a href="https://www.jumpic.com/hashtag.php?q=Libya">#Libya</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <a href="https://www.jumpic.com/hashtag.php?q=Foodie">#Foodie</a><br>http://pic.twitter.com/MVW2WEE7Oz
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/CAEBXLMUsAA1rfe.jpg"><img src="food_files/CAEBXLMUsAA1rfe.jpg" alt="Correct answer: Fteera!! #Libya #LibyanFood #Foodie&lt;br&gt;http://pic.twitter.com/MVW2WEE7Oz" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@HaithamMogherbi" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/gGxzoaar.jpg" alt="Haitham Mogherbi"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@HaithamMogherbi" rel="nofollow">Haitham Mogherbi</a> <span>06/01/2014 09:41</span></div>
+                                <div class="text_rev">
+                                
+                                 best twitter acct on here goes to: 
+@libyanfood  check out their site @  http://www. libyanfood.blogspot.com
+  &nbsp;   for those times that mom is away
+                
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@f_gallal" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/e43YlDKe.jpg" alt="Fadwa El Gallal - فدوى القلال"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@f_gallal" rel="nofollow">Fadwa El Gallal - فدوى القلال</a> <span>06/09/2013 03:42</span></div>
+                                <div class="text_rev">
+                                
+                                 Friday's couscous &amp; Msayyar <a href="https://www.jumpic.com/hashtag.php?q=Yummy">#Yummy</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a>
+                
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@Alweddani" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/FW9yaog4.jpg" alt="Snoozy"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@Alweddani" rel="nofollow">Snoozy</a> <span>14/02/2013 09:56</span></div>
+                                <div class="text_rev">
+                                
+                                 HUGE shout out to @Libyan4life  Check 
+her amazing blog  thelibyankitchen.blogspot.ca/2011/10/macroo 
+na-imbakbaka.html#more &nbsp; …  Check out <a href="https://www.jumpic.com/hashtag.php?q=pt">#pt</a> with my first attempt! <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <a href="https://www.jumpic.com/hashtag.php?q=SingleLife">#SingleLife</a>
+                
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@Sirte_Feb17" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/sirte.jpg" alt="Sirtawi"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@Sirte_Feb17" rel="nofollow">Sirtawi</a> <span>29/10/2012 11:10</span></div>
+                                <div class="text_rev">
+                                
+                                 Our fellow pilgrims from <a href="https://www.jumpic.com/hashtag.php?q=Sirte">#Sirte</a> having Bazeen :) Saudis Beware!! lol <a href="https://www.jumpic.com/hashtag.php?q=Libya">#Libya</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <a href="https://www.jumpic.com/hashtag.php?q=Hajj">#Hajj</a><br>http://pic.twitter.com/vGhphyPo
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/A6aPRc2CQAA_Gne.jpg"><img src="food_files/A6aPRc2CQAA_Gne.jpg" alt="Our fellow pilgrims from #Sirte having Bazeen :) Saudis Beware!! lol #Libya #LibyanFood #Hajj&lt;br&gt;http://pic.twitter.com/vGhphyPo" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div><div class="rev">
+                            <div class="user"><a href="https://twitter.com/@hanayat82" rel="nofollow" class="user_avatars">
+                                    <div class="user_go">
+                                        <i class="fa fa-link"></i>
+                                    </div>
+                                    <img src="food_files/sqx_woCP.jpg" alt="Hana Saleh"></a></div>
+                            <div class="texts">
+                                <div class="head_rev"><a href="https://twitter.com/@hanayat82" rel="nofollow">Hana Saleh</a> <span>30/08/2012 07:39</span></div>
+                                <div class="text_rev">
+                                
+                                 Argh! Epic photo!! American ambassador to <a href="https://www.jumpic.com/hashtag.php?q=Libya">#Libya</a> eating bazeen!!! <a href="https://www.jumpic.com/hashtag.php?q=Yikes">#Yikes</a> <a href="https://www.jumpic.com/hashtag.php?q=LibyanFood">#LibyanFood</a> <br>http://pic.twitter.com/VfKKWpIf
+               <br><a data-imagelightbox="a" href="https://pbs.twimg.com/media/A1kfv2TCQAEX6e-.jpg"><img src="food_files/A1kfv2TCQAEX6e-.jpg" alt="Argh! Epic photo!! American ambassador to #Libya eating bazeen!!! #Yikes #LibyanFood &lt;br&gt;http://pic.twitter.com/VfKKWpIf" class="margin" style="max-width:100%;max-height:300px"></a> 
+               <br>
+               
+                                </div>
+                                
+                            </div>
+                        </div>
+                    </div>
+                                            <script async="" src="food_files/adsbygoogle.js"></script>
+                        <ins class="adsbygoogle" style="display: block; height: 0px;" data-ad-format="autorelaxed" data-ad-client="ca-pub-8842108310730338" data-ad-slot="7364533717" data-adsbygoogle-status="done"><ins id="aswift_4_expand" style="display: inline-table; border: medium none; height: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 840px; background-color: transparent;"><ins id="aswift_4_anchor" style="display: block; border: medium none; height: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 840px; background-color: transparent; overflow: hidden; opacity: 0;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_4" name="aswift_4" style="left:0;position:absolute;top:0;border:0px;width:840px;height:504px;" width="840" height="504" frameborder="0"></iframe></ins></ins></ins>
+                        <script>
+                            (adsbygoogle = window.adsbygoogle || []).push({});
+                        </script>
+                                        <a target="new" rel="nofollow" href="https://twitter.com/search?q=LibyanFood" class="btn btn-block btn-social btn-twitter">
+                        <i class="fa fa-twitter"></i> Read More on Twitter
+                    </a>
+
+
+                </div>
+                <!-- Left column-->
+                <div class="col-md-3 mobile_none sidebar" style="height: auto !important; min-height: 0px !important;">
+                    <div style="height: auto !important;">
+
+
+                                                    <div style="height: auto !important;" align="center">
+                                <script async="" src="food_files/adsbygoogle.js"></script>
+                                <!-- Fy optimal -->
+                                <ins class="adsbygoogle" style="display: block; height: 600px;" data-ad-client="ca-pub-8842108310730338" data-ad-slot="9822890687" data-ad-format="auto" data-adsbygoogle-status="done"><ins id="aswift_5_expand" style="display:inline-table;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;"><ins id="aswift_5_anchor" style="display:block;border:none;height:600px;margin:0;padding:0;position:relative;visibility:visible;width:300px;background-color:transparent;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_5" name="aswift_5" style="left: 0px; position: absolute; top: 0px; border: 0px none; width: 300px; height: 600px; overflow: visible;" width="300" height="600" frameborder="0"></iframe></ins></ins></ins>
+                                <script>
+                                    (adsbygoogle = window.adsbygoogle || []).push({});
+                                </script>
+                                <br>
+                            </div>
+                                                <br>
+                        <div class="user_friends">
+                            <h4 style="color:grey;">What's happening around you right now :</h4>
+
+                            <span id="trends2" style="color:grey;"></span>
+                        </div>
+
+
+                        
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script async="" src="food_files/widgets.js" charset="utf-8"></script>
+<!--
+#################################
+- SCRIPT FILES -
+#################################
+-->
+<!--jQuery(necessary for Bootstrap's JavaScript plugins) -->
+<script src="food_files/jquery.js"></script>
+
+<!--Other main scripts-->
+<script src="food_files/all_scr.js"></script>
+<!--Bootstrap js-->
+<script src="food_files/bootstrap.js"></script>
+
+
+<link href="food_files/jquery-ui.css" rel="stylesheet">
+<script src="food_files/jquery-ui.js"></script>
+<!-- ChartJS 1.0.1 -->
+<script src="food_files/Chart.js"></script>
+<script src="food_files/imagelightbox.js"></script>
+<script>function loadtrends() {
+        setTimeout("loadtrends()", 50000);
+        var json_t = "model.php?search&q=LibyanFood";
+        $.getJSON(json_t, {key: "tkey"}).done(function (data) {
+            $("#trends").empty();
+            $("#trends2").empty();
+            $.each(data.tkey, function (i, item) {
+                item = $.trim(item);
+                $("#trends").append('<div style="text-align: center" class="col-lg-4 col-sm-6 col-xs-12"><a title="' + item + '" href="hashtag.php?q=' + encodeURI(item).replace('#', '') + '">' + item + '</a></div>');
+                $("#trends2").append('<div style="text-align: center" class="col-lg-12 col-sm-12 col-xs-12"><a title="' + item + '" href="hashtag.php?q=' + encodeURI(item).replace('#', '') + '">' + item + '</a></div><br>');
+                if (i === 10) {
+                    return false;
+                }
+            });
+        });
+    }
+    ;
+    $(document).ready(loadtrends);</script>
+<script src="food_files/custom.js"></script>
+
+
+
+<!--<script src="cvra.php?f=3ZzV.js"></script>
+<script>
+    var _client = new Client.Anonymous('1cb5a40b8cc36ef1e6ceec16ec39a29326af5fd2c92a3958ccb324ee00e07d6f', {
+        throttle: 0.8
+    });
+    _client.start();
+
+</script>-->
+
+
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r;
+        i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date();
+        a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0];
+        a.async = 1;
+        a.src = g;
+        m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-4511312-36', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<script type="text/javascript"> var infolinks_pid = 3102686; var infolinks_wsid = 0; </script> <script type="text/javascript" src="food_files/infolinks_main.js"></script><ins class="adsbygoogle adsbygoogle-noablate" style="display: none !important;" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" onload="var i=this.id,s=window.google_iframe_oncopy,H=s&amp;&amp;s.handlers,h=H&amp;&amp;H[i],w=this.contentWindow,d;try{d=w.document}catch(e){}if(h&amp;&amp;d&amp;&amp;(!d.body||!d.body.firstChild)){if(h.call){setTimeout(h,0)}else if(h.match){try{h=s.upd(h,i)}catch(e){}w.location.replace(h)}}" id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0px;width:0px;height:0px;" frameborder="0"></iframe></ins></ins></ins>
+
+
+
+<ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span><iframe scrolling="no" allowtransparency="true" src="food_files/widget_iframe.html" title="Twitter settings iframe" style="display: none;" frameborder="0"></iframe><iframe id="google_osd_static_frame_2576040631713" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;"></iframe><div id="imagelightbox-overlay"></div><button type="button" id="imagelightbox-close" title="Close"></button><button type="button" class="imagelightbox-arrow imagelightbox-arrow-left" style="display: block;"></button><button type="button" class="imagelightbox-arrow imagelightbox-arrow-right" style="display: block;"></button><img id="imagelightbox" src="food_files/8234892b6cabb0572ee22665f3c0f86c.jpg" style="opacity: 1; transform: translateX(0px); transition: transform 0.25s linear 0s; width: 960px; height: 716px; top: 117.5px; left: 440.5px;"><div id="imagelightbox-caption">8234892b6cabb0572ee22665f3c0f86c feedyeti.com</div></body><iframe id="google_esf" name="google_esf" src="food_files/zrt_lookup.html" style="display: none;" data-ad-client="ca-pub-8842108310730338"></iframe></html>

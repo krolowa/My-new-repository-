@@ -1,0 +1,10 @@
+@media (max-width: 520px){
+  .bottom{
+  padding-top:80px;
+  padding-left: 180px;
+  display:flex;
+  height: 20vh;
+  flex-direction: row;
+  justify-content: center;
+}
+}

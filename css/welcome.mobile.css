@@ -1,0 +1,29 @@
+@media (max-width: 520px) {
+
+
+header .welcome .entry-text h1 {
+  font-size: 60px;
+
+}
+header .welcome .entry-text h2 {
+  font-size: 12px;
+}
+header .welcome .entry-text img{
+  width: 200px;
+  height: 200px;
+  margin-top: 30px;
+}
+.menu-wrap .menu2 > div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 150vh;
+  height: 150vh;
+}
+.menu-wrap .menu2 > div > div{
+  max-width: 90vh;
+}
+.menu-wrap .menu2 > div > div > ul >li {
+margin-left: -15px;
+}
+}
