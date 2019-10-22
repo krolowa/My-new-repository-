@@ -23,13 +23,19 @@
 .specialities .specialities-text {
   justify-content: flex-start;
   margin-left: 30px;
-  margin-top: 240px;
+  margin-top: 190px;
+  margin-bottom: 30px
 }
 .specialities .specialities-text h6{
   font-size: 60px;
 }
 .specialities .specialities-text h3{
   font-size: 50px;
-  margin-top: -150px
+  margin-top: -150px;
+  margin-bottom: 80px;
+  padding-bottom: 30px;
+}
+.specialities .specialities-text h3{
+  margin-bottom: 30px;
 }
 }

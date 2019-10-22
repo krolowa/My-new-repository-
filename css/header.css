@@ -27,8 +27,9 @@ header .welcome .entry-text h1{
   font-family: 'Great Vibes', cursive;
   font-size: 120px;
   margin-bottom: -20px;
-  color: #f5c242;
+  color: #900C3F ;
   font-weight: 300;
+  text-shadow: 1px 1px white;
 }
 header .welcome .entry-text h2{
   color:white;
@@ -201,7 +202,7 @@ li{
 }
 .menu-wrap .toggler:checked ~ .menu2 {
   visibility: visible;
-  
+
 }
 .menu-wrap .toggler:checked ~ .menu2 > div {
   transform: scale(1);
