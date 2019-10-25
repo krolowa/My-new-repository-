@@ -17,20 +17,21 @@
 }
 
 .today .parallax .tx {
-  color: white;
+  color: #900C3F ;
   font-family: 'Great Vibes' , cursive;
   font-size: 115px;
   font-weight: 400;
+  text-shadow: 1px 1px white;
 }
 
 .today .parallax .txt {
-  color: #fff;
+  color:#900C3F  ;
   font-family: 'Great Vibes' , cursive;
 
   font-size: 86px;
   line-height: 86px;
   font-weight: 400;
-
+text-shadow: 1px 1px white;
   text-align: center;
 }
 
@@ -42,7 +43,8 @@
   font-weight: 400;
   letter-spacing: 2px;
   text-align: center;
-  color:white;
+  text-shadow: 1px 1px white;
+  color: #900C3F ;
   margin-top: 20px;
 }
 .today .parallax a{

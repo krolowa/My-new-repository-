@@ -2,7 +2,7 @@
   height: 100vh;
   display:flex;
   flex-direction:row;
-  justify-content: flex-start;
+  justify-content: center;
   background-color:  white;
 ;
 }
@@ -22,21 +22,21 @@
   position:absolute;
   width: 700px;
   height: 700px;
-
-  margin-left: 200px;
+  margin-left: 250px;
 }
 
 
 
 .specialities .specialities-text {
-  justify-content: flex-start;
-  margin-left: 180px;
+  justify-content: center;
+  margin-left: 400px;
+  margin-top: -50px;
 }
 .specialities .specialities-text h6{
   color: red;
   font-family: 'Great Vibes' , cursive;
   font-size:  85px;
-  margin-top: 70px;
+  margin-top: -130px;
   font-weight: 300;
 }
 .specialities .specialities-text h3{
@@ -45,13 +45,15 @@
   font-size:  75px;
   margin-top:-200px;
   letter-spacing: 3px;
+  margin-bottom: 5px;
+
 }
 
 .specialities .specialities-text h2 {
   width: 300px;
-  height: 400px;
   font-weight: 300;
-  margin-top: -40px;
+  margin-top: -5px;
+  margin-bottom: 10px;
 }
 .specialities .specialities-text .blabla{
   display: flex;
